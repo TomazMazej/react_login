@@ -10,4 +10,4 @@ Login and Sign up template made in react.
 * npm start
 
 ## Pictures
-![Image1](/pictures/picture.png)
+![Image1](/pictures/picture.PNG)
